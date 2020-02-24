@@ -6,7 +6,7 @@ description: 欢迎来到琐佬工作室官方网站~
 avatarTitle: 琐佬工作室
 # 头像里面的描述
 avatarDesc: 专门制作minecraft地图的工作室
-url: "http://baixin.io"
+url: "http://www.suolao.tk"
 
 # Comment
 comment:
@@ -22,7 +22,7 @@ social:
     # juejin: xxx
     # jianshu: 2ada30d8d0f7
     # twitter:
-    mail: yin-ren@qq.com
+    mail: 2420343224@qq.com
 
 
 # 百度统计
@@ -59,11 +59,9 @@ blog_button:
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}
     - {title: 标签, description: tags, url: '/tags'}
-    - {title: 关于我, description: about, url: '/about'}
 
 
 # Pagination
 gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
-
